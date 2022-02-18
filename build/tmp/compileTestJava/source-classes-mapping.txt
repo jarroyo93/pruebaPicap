@@ -1,0 +1,6 @@
+com/babel/automation/registro/runners/RunnerCucumber.java
+ com.babel.automation.registro.runners.RunnerCucumber
+com/babel/automation/registro/stepsdefinitions/Hooks.java
+ com.babel.automation.registro.stepsdefinitions.Hooks
+com/babel/automation/registro/stepsdefinitions/LoginStepsDefinitions.java
+ com.babel.automation.registro.stepsdefinitions.LoginStepsDefinitions

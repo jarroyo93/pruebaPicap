@@ -1,0 +1,14 @@
+com/babel/automation/registro/questions/MensajeDeLogin.java
+ com.babel.automation.registro.questions.MensajeDeLogin
+com/babel/automation/registro/ui/UiHome.java
+ com.babel.automation.registro.ui.UiHome
+com/babel/automation/registro/ui/UiLogin.java
+ com.babel.automation.registro.ui.UiLogin
+com/babel/automation/registro/models/CredencialesLogin.java
+ com.babel.automation.registro.models.CredencialesLogin
+com/babel/automation/registro/tasks/HaceLogin.java
+ com.babel.automation.registro.tasks.HaceLogin
+pageObjects/HomePage.java
+ pageObjects.HomePage
+com/babel/automation/registro/tasks/AbreLaWeb.java
+ com.babel.automation.registro.tasks.AbreLaWeb
