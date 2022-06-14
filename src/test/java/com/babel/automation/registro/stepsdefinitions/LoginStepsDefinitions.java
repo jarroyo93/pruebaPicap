@@ -19,6 +19,7 @@ public class LoginStepsDefinitions {
 
     @Given("^Que (.*) esta en la web de new tours$")
     public void queEstaEnLaWebDeNewTours(String nombre){
+
         theActorCalled(nombre).wasAbleTo(AbreLaWeb.newTours());
     }
 
